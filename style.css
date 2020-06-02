@@ -29,7 +29,7 @@ body {
 .lateral {
   height: 100%;
   width: 6%;
-  background-color: #111111;
+  background-color: #111E2F;
   display: flex;
   justify-content: center;
   flex-wrap: nowrap;
@@ -47,7 +47,7 @@ body {
 .lateral div a,
 .lateral div img {
   display: block;
-  color: #0085f3;
+  color: #00B5f3;
   margin-top: 0.8em;
   font-size: 250%;
   transition: color 400ms ease-out;
@@ -96,7 +96,7 @@ body {
 
 #title h3 {
   font-size: 1.6em;
-  color: #0085f3;
+  color: #00B5f3;
   font-family: 'Raleway', sans-serif;
 }
 
@@ -119,6 +119,11 @@ body {
   text-decoration: none;
   transition: color 400ms ease-out;
   font-family: 'Raleway', sans-serif;
+  transition: color 400ms ease-out;
+}
+
+.url a:hover{
+  color: #fafafa
 }
 
 /* Face image */
@@ -225,7 +230,7 @@ body {
     font-size: 180%;
   }
   #title h2 {
-    font-size: 3.3em;
+    font-size: 2.8em;
   }
 
   #title h3 {
@@ -320,7 +325,7 @@ body {
   }
 
   #title h2 {
-    font-size: 1.6em;
+    font-size: 1.4em;
   }
   #title h3 {
     font-size: 0.7em;

@@ -54,7 +54,7 @@ body {
 }
 
 .lateral div a:hover,
-.content #url a:hover {
+.content .url a:hover {
   color: #fafafa;
 }
 
